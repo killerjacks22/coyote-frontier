@@ -306,3 +306,6 @@ Resources/MapImages
 
 # Direnv stuff
 .direnv/
+# Stream Deck VS Code Integration Files
+ns-deck.json
+package.json
